@@ -137,8 +137,8 @@ body {
 
 .card-fullname {
   margin-top: 20px;
-  position: absolute;
-  bottom: 0;
+  position: relative;
+  bottom: 10;
   font-size: 22px;
   font-weight: 700;
   text-align: center;
