@@ -134,7 +134,7 @@ body {
 }
 
 .card-fullname {
-  position: relative;
+  position: absolute;
   bottom: 0;
   font-size: 22px;
   font-weight: 700;
