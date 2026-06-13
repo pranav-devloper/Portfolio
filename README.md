@@ -133,8 +133,9 @@ body {
   transform: translateX(-50%) translateY(-64px);
 }
 
+
 .card-fullname {
-  margin-top: 10px;
+  margin-top: 20px;
   position: absolute;
   bottom: 0;
   font-size: 22px;
