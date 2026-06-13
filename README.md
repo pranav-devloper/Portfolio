@@ -94,7 +94,7 @@ body {
 }
 
 .card-header {
-  position: relative;
+  position: absolute;
   display: flex;
   height: 200px;
   flex-shrink: 0;
