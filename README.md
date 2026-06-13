@@ -30,7 +30,7 @@ body {
   max-width: 340px;
   margin: auto;
   overflow-y: auto;
-  position: relative;
+  position: absolute;
   z-index: 1;
   overflow-x: hidden;
   background-color: rgba(255, 255, 255, 1);
