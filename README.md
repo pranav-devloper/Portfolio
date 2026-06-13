@@ -81,7 +81,6 @@ body {
   }
 
   .card-fullname {
-    margin-top: 20px
     bottom: 18px;
     font-size: 19px;
   }
@@ -94,7 +93,7 @@ body {
 }
 
 .card-header {
-  position: absolute;
+  position: relative;
   display: flex;
   height: 200px;
   flex-shrink: 0;
@@ -134,11 +133,9 @@ body {
   transform: translateX(-50%) translateY(-64px);
 }
 
-
 .card-fullname {
-  margin-top: 20px;
-  position: relative;
-  bottom: 10;
+  position: absolute;
+  bottom: 0;
   font-size: 22px;
   font-weight: 700;
   text-align: center;
@@ -396,21 +393,14 @@ body {
   <div class="card-header">
     <div class="card-cover" style="background-image: url('https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80')"></div>
     <img class="card-avatar" src="https://iili.io/CF15vUP.md.jpg"  alt="avatar" />
-    <h1 class="card-fullname" style="margin-top=20px">Pranav Champaneri</h1>
-    
+    <h1 class="card-fullname">Pranav Champaneri</h1>
+    <h2 class="card-jobtitle">ML Engineer</h2>
   </div>
   <div class="card-main">
     <div class="card-section is-active" id="about">
       <div class="card-content">
         <div class="card-subtitle">ABOUT</div>
-        <p class="card-desc">A Machine Learning Engineer is a professional who designs, develops, and deploys intelligent systems that learn from data. Their work combines software engineering, data science, and artificial intelligence to create solutions for real-world problems.
-
-As an ML Engineer, I focus on building scalable machine learning models, processing large datasets, and transforming complex data into actionable insights. I work with technologies such as Python, TensorFlow, PyTorch, and cloud platforms to develop predictive models and AI-powered applications.
-
-My responsibilities include data preprocessing, feature engineering, model training, evaluation, optimization, and deployment. Beyond building models, I ensure that machine learning systems are reliable, efficient, and capable of delivering business value in production environments.
-
-What excites me most about machine learning is its ability to solve challenging problems, automate decision-making, and create innovative products that improve people's lives. I am committed to continuous learning and staying updated with the latest advancements in artificial intelligence and machine learning.
-
+        <p class="card-desc">Whatever tattooed stumptown art party sriracha gentrify hashtag intelligentsia readymade schlitz brooklyn disrupt.
         </p>
       </div>
       <div class="card-social">
