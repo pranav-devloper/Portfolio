@@ -392,8 +392,8 @@ body {
        <div class="card" data-state="#about">
   <div class="card-header">
     <div class="card-cover" style="background-image: url('https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80')"></div>
-    <img class="card-avatar" src="https://iili.io/CF15vUP.md.jpg"  alt="avatar" />
-    <h1 class="card-fullname">Pranav Champaneri</h1><br/><br/>
+    <img class="card-avatar" src="https://iili.io/CF15vUP.md.jpg"  alt="avatar" /><br<br>
+    <h1 class="card-fullname">Pranav Champaneri</h1>
     
   </div>
   <div class="card-main">
