@@ -143,6 +143,12 @@ body {
   transform: translateY(-10px) translateX(-50%);
   left: 50%;
 }
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 {
+    margin-top: 24px;
+    margin-bottom: -6px;
+    font-weight: 600;
+    line-height: 1.25;
+}
 
 .card-jobtitle {
   position: absolute;
