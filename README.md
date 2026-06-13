@@ -394,13 +394,15 @@ body {
     <div class="card-cover" style="background-image: url('https://images.unsplash.com/photo-1549068106-b024baf5062d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80')"></div>
     <img class="card-avatar" src="https://iili.io/CF15vUP.md.jpg"  alt="avatar" />
     <h1 class="card-fullname" style="padding-top=0.3em">Pranav Champaneri</h1>
-    <h2 class="card-jobtitle" style="padding-top=0.3em">ML Engineer</h2>
+    
   </div>
   <div class="card-main">
     <div class="card-section is-active" id="about">
       <div class="card-content">
         <div class="card-subtitle">ABOUT</div>
-        <p class="card-desc">A Machine Learning Engineer is a professional who designs, develops, and deploys intelligent systems that learn from data. Their work combines software engineering, data science, and artificial intelligence to create solutions for real-world problems.
+        <p class="card-desc">I am a Machine Learning Engineer with a strong background in data science and software development. I have experience working on various machine learning projects, including natural language processing, computer vision, and predictive modeling. I am passionate about leveraging data to solve complex problems and drive business insights. With a solid foundation in programming languages such as Python and R, I am skilled in using machine learning frameworks like TensorFlow and scikit-learn. I am eager to contribute my expertise to innovative projects and collaborate with teams to create impactful solutions.
+
+A Machine Learning Engineer is a professional who designs, develops, and deploys intelligent systems that learn from data. Their work combines software engineering, data science, and artificial intelligence to create solutions for real-world problems.
 
 As an ML Engineer, I focus on building scalable machine learning models, processing large datasets, and transforming complex data into actionable insights. I work with technologies such as Python, TensorFlow, PyTorch, and cloud platforms to develop predictive models and AI-powered applications.
 
