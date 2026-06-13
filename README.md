@@ -81,6 +81,7 @@ body {
   }
 
   .card-fullname {
+    margin-top: 20px
     bottom: 18px;
     font-size: 19px;
   }
