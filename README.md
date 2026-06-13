@@ -134,6 +134,7 @@ body {
 }
 
 .card-fullname {
+  margin-top: 10px;
   position: absolute;
   bottom: 0;
   font-size: 22px;
